@@ -29,11 +29,11 @@ Using Simple Linear Regression, we assess which literary quality measures (indep
 
 ## Vocabulary Report:
 ### Lexical Diversity:
-MSTTR -Mean Segmental Type-Token Ratio- It is a statistical measure for lexical diversity in text analysis, calculated by averaging type-token ratios across fixed-length text segments.
+- MSTTR (Mean Segmental Type-Token Ratio) is a statistical measure for lexical diversity in text analysis, calculated by averaging type-token ratios across fixed-length text segments.
 ### Text readability metrics:
-ARI Automated Readability Index - Strong predictor of engagement.
-FG Flesch-Kincaid Grade Level -Higher level scores indicate a more complex text
-FE Flesch Reading Ease -Higher FE scores are easy-to-read text.
+- ARI (Automated Readability Index) - Strong predictor of engagement.
+- FG (Flesch-Kincaid Grade Level) -Higher level scores indicate a more complex text
+- FE (Flesch Reading Ease) -Higher FE scores are easy-to-read text.
 ### Structural Features:
-Wordcount: longer texts may reduce engagement
-CommentCount: signals community interest, creating a feedback loop for future kudos
+- Wordcount: longer texts may reduce engagement
+- CommentCount: signals community interest, creating a feedback loop for future kudos
